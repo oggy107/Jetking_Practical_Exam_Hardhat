@@ -1,0 +1,7 @@
+Q.1) What is Hardhat?
+
+Hardhat is a development environment used to ease the development of smart contracts and dapps.
+Hardhat provides environment to develop, deploy, debug and test the smart contracts.
+Hardhat runner which is a command line interface (CLI) tool can be used to interact with the 
+hardhat environment such as using commands to run local hardhat network, compiling smart contracts,
+testing, deploying, etc.
